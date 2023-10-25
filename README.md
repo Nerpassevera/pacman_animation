@@ -11,7 +11,7 @@ Welcome to the PacMan Animation project, a fun and interactive PacMan animation 
 
 ## Introduction
 
-In this project, PacMan, everyone's favorite arcade character, comes to life on your webpage. PacMan moves left and right across the screen, munching on pellets, and playfully opens and closes his mouth.
+In this project, PacMan, everyone's favorite arcade character, comes to life on your webpage. PacMan moves left and right across the screen, and playfully opens and closes his mouth.
 
 ![PacMan Animation](/images/pacman-demo.gif)
 
