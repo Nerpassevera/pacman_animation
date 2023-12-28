@@ -1,0 +1,53 @@
+<html>
+
+<head>
+    <title>Pacmen</title>
+</head>
+<!-- DO NOT CHANGE THIS LINE OF CODE -->
+    <style>
+        body {
+            background-color: #14495D;
+        }
+
+        .btn {
+            border-radius: 7px;
+            background-color: white;
+            color: black;
+            padding: 14px 28px;
+            font-size: 16px;
+            cursor: pointer;
+            border-color: #e7e7e7;
+            color: black;
+        }
+
+        .add {
+            border: 3px solid #9B9B99;
+
+        }
+
+        .add:hover{
+            background-color: rgb(92, 184, 160);
+        }
+
+        .start {
+            border: 3px solid #9B9B99;
+
+        }
+
+        .start:hover{
+            background-color: #7FFFD4
+        }
+
+    </style>
+    <script src="./pacmen.js"></script>
+<body>
+    <div id='game'>
+        <button class="btn add" onclick='makeOne()' width='200' height='30'>Add PacMan</button>
+        <button class="btn start" onclick='update(); changeBtnName()' width='200' height='30'>Start Game</button>
+    </div>
+
+</body>
+
+</html>
+
+<link
