@@ -35,6 +35,9 @@ To run the PacMan animation on your local machine, follow these steps:
 
 Feel free to customize the code or experiment with different settings to create your unique PacMan animation.
 
+## Roadmap of future improvements
+The work on this project is over.
+
 ## Contributing
 
 This project is designed for self-learning and experimentation purposes. It serves as a practical example for individual learners who want to explore web animation techniques and JavaScript interactions. While you are welcome to use the code, make improvements, or adapt it for your own learning, it's not intended for collaborative contributions.
