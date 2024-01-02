@@ -1,7 +1,7 @@
 var pos = 0;
 const pacArray = [
-  ['./PacMan1.png', './PacMan2.png'],
-  ['./PacMan3.png', './PacMan4.png'],
+  ['./images/PacMan1.png', './images/PacMan2.png'],
+  ['./images/PacMan3.png', './images/PacMan4.png'],
 ];
 
 const pacMen = []; // This array holds all the pacmen
@@ -35,7 +35,7 @@ function makePac() {
   let velocity = setToRandom(10 * plusOrMinus()); // {x:?, y:?}
   let position = setToRandom(pageWidth - 100, pageHeight - 100);
   newimg.style.position = 'absolute';
-  newimg.src = './PacMan1.png';
+  newimg.src = './images/PacMan1.png';
   newimg.width = 100;
   // TODO: set position here
   newimg.style.left = position.x;
