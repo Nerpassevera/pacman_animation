@@ -35,6 +35,9 @@ To run the PacMan animation on your local machine, follow these steps:
 
 Feel free to customize the code or experiment with different settings to create your unique PacMan animation.
 
+## License
+This project is licensed under the MIT License.
+
 ## Roadmap of future improvements
 The work on this project is over.
 
